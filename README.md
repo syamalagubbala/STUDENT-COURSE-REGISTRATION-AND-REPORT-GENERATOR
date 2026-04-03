@@ -1,2 +1,2 @@
 # STUDENT-COURSE-REGISTRATION-AND-REPORT-GENERATOR
-Student Course Registration and Report Generator is a system that manages student enrollments and course details. It allows users to register for courses, store student data, and generate reports like course lists and performance summaries, helping automate and simplify academic management tasks efficiently.
+A web-based application developed as part of the AMSD project, built using HTML, CSS, and JavaScript. The system is designed to streamline the process of student course registration and automate report generation through an interactive and user-friendly interface.
